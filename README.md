@@ -1,3 +1,4 @@
+<<<<<<< README.md
 # Global Earthquakes and Tsunami Risk: A Geovisualization
 
 Where do tsunami-generating earthquakes happen, and which measurements hint at them? A visual analysis of 782 large earthquakes (2001-2022) in relation to tectonic plate boundaries, with colour-blind-safe design choices.
