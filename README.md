@@ -14,7 +14,7 @@ Where do tsunami-generating earthquakes happen, and which measurements hint at t
   <img src="pics/earthquake_pacific_colorblind.png" width="95%" alt="Global earthquakes and plate boundaries on a Pacific-centred Robinson map. Black triangles mark tsunami events.">
 </p>
 
-Course project for data visualization (HS25). You can read the full write-up in the [project report (PDF)](gdv_project_report.pdf) and the [presentation (PPTX)](Presentation.pptx). The code that produces every figure is in [`Visualization.ipynb`](Visualization.ipynb).
+Course project for data visualization (HS25). You can read the full write-up in the [project report (PDF)](gdv_project_report.pdf). The code that produces every figure is in [`Visualization.ipynb`](Visualization.ipynb).
 
 ## Key findings
 
